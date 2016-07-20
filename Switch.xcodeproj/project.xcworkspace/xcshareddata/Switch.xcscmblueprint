@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2E9D8ED182E36D3C2CB179669E5F8FABBE182C7B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "36FFC59EC5FCB0FFF215F21054BA4BA3AF660B28" : 0,
+    "EF1252C053A2DDD3A91F34C68B4D9FF21D637270" : 0,
+    "2E9D8ED182E36D3C2CB179669E5F8FABBE182C7B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D859BF02-9DE4-41AA-B4EC-3A4A5933D7A6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "36FFC59EC5FCB0FFF215F21054BA4BA3AF660B28" : "Switch\/SwitchTests\/",
+    "EF1252C053A2DDD3A91F34C68B4D9FF21D637270" : "Switch\/Switch\/",
+    "2E9D8ED182E36D3C2CB179669E5F8FABBE182C7B" : "Switch\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Switch",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Switch.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangxiaobai1840\/SwitchDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2E9D8ED182E36D3C2CB179669E5F8FABBE182C7B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangxiaobai1840\/SwitchTests.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "36FFC59EC5FCB0FFF215F21054BA4BA3AF660B28"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangxiaobai1840\/Switch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EF1252C053A2DDD3A91F34C68B4D9FF21D637270"
+    }
+  ]
+}
